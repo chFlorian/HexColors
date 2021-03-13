@@ -1,3 +1,3 @@
 # HexColors
 
-A description of this package.
+Adds simple support for hex-string based Color initializaton.
